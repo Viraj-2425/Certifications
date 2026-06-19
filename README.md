@@ -15,7 +15,8 @@ This repository contains my completion certificate for the Be10X AI Tools Worksh
 - AI Productivity Tools
 - AI-Powered Content Creation
 - Research and Information Gathering using AI
-- Presentation and Document Automation
+- Presentation
+- Document Automation
 - Workflow Optimization with AI Tools
 
 ## Key Takeaways
